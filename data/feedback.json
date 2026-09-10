@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a753e03e-1cbf-40ac-bd6a-0f42b7304f2a",
+    "message": "p",
+    "createdAt": "2026-09-10T14:00:19.261Z"
+  },
+  {
+    "id": "fdef99a1-ce3f-440f-a70f-686d9f2af10f",
+    "message": "cek",
+    "createdAt": "2026-09-10T14:00:36.096Z"
+  },
+  {
+    "id": "e38c8f27-0c8d-48b7-b3c2-a099d5dc6a6c",
+    "message": "p",
+    "createdAt": "2026-09-10T14:01:37.818Z"
+  },
+  {
+    "id": "692d8e62-4db2-4c08-aa18-c8210d8a902a",
+    "message": "p",
+    "createdAt": "2026-09-10T14:02:27.230Z"
+  },
+  {
+    "id": "a611f658-c5d4-4570-8241-74427cce9a71",
+    "message": "test",
+    "createdAt": "2026-09-10T14:04:22.669Z"
+  },
+  {
+    "id": "2278cc87-4313-4052-b614-ceb499d6421b",
+    "message": "halo",
+    "createdAt": "2026-09-10T14:04:30.984Z"
+  },
+  {
+    "id": "ed3cc2b5-cd34-40d4-9b22-094a3e6a31d0",
+    "message": "rifat jelek",
+    "createdAt": "2026-09-10T14:04:37.329Z"
+  }
+]
